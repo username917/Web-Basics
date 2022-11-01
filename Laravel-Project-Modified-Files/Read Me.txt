@@ -1,0 +1,8 @@
+In your starter Laravel application, make sure to update these two files:
+
+web.php - under the "routes" folder
+listings.blade.php - the file that we created under the "resources"->"views" folder.
+
+The reason for the error in class was a set of missing brackets to enclose the "listings" array in the web.php file.
+
+At that point, it should work.
