@@ -13,4 +13,6 @@ This project is a demonstration of how to implement conditional rendering with R
 the comprehensive code on how to achieve that with a dropdwon of fruit choices where choosing "banana" 
 output a heading and a new button.
 
+Further info: https://www.youtube.com/watch?v=rHPWONwtPwM
+
 This is going to be a project in progress.
